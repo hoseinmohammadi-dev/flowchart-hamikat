@@ -1,7 +1,5 @@
 # Flowchart Project
 
-پروژه تمرینی پیاده‌سازی فلوچارت با React.
-
 ## 🛠️ Tech Stack
 - React / Next.js
 - React Flow
